@@ -28,15 +28,15 @@ using System;
 
 namespace MultiFileApp
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var person = new Person("Alice", 30);
-            var message = Greeter.Greet(person);
-            Console.WriteLine(message);
-        }
-    }
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			var person = new Person("Alice", 30);
+			var message = Greeter.Greet(person);
+			Console.WriteLine(message);
+		}
+	}
 }
 ```
 
@@ -45,17 +45,17 @@ namespace MultiFileApp
 ```csharp
 namespace MultiFileApp
 {
-    public class Person
-    {
-        public string Name { get; }
-        public int Age { get; }
+	public class Person
+	{
+		public string Name { get; }
+		public int Age { get; }
 
-        public Person(string name, int age)
-        {
-            Name = name;
-            Age = age;
-        }
-    }
+		public Person(string name, int age)
+		{
+			Name = name;
+			Age = age;
+		}
+	}
 }
 ```
 
@@ -64,13 +64,13 @@ namespace MultiFileApp
 ```csharp
 namespace MultiFileApp
 {
-    public static class Greeter
-    {
-        public static string Greet(Person person)
-        {
-            return $"Hello, {person.Name}! You are {person.Age} years old.";
-        }
-    }
+	public static class Greeter
+	{
+		public static string Greet(Person person)
+		{
+			return $"Hello, {person.Name}! You are {person.Age} years old.";
+		}
+	}
 }
 ```
 

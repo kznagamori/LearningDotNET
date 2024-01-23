@@ -50,12 +50,12 @@
 - [パブリックなクラスのメンバ、メソッドを定義とプライベートなクラスのメンバ、メソッドを定義する](./dotnet_public_private/README.md)
 - [クラスの継承を実現する](./dotnet_inherit_class/README.md)
 - [クラスのインタフェースを使用したポリモーフィズムの実現](./dotnet_poly_class/README.md)
-- [C#みたいなクラスのプロパティを定義、使用](./dotnet_class_property/README.md)
+- [クラスのプロパティを定義、使用](./dotnet_class_property/README.md)
 - [一般的なエラー処理](./dotnet_error_handling/README.md)
 - [各型のstring formatの組み合わせ](./dotnet_string_format/README.md)
 - [ジェネリック機能](./dotnet_generics_example/README.md)
 - [ラムダ式](./dotnet_lambda_example/README.md)
-- [C#みたいなLINQ機能](./dotnet_linq_example/README.md)
+- [LINQ機能](./dotnet_linq_example/README.md)
 
 ## アルゴリズムとデータ構造
 - [リンクドリスト構造](./dotnet_linked_list/README.md)
