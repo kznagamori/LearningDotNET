@@ -83,5 +83,7 @@
 ## エコシステム
 - [パッケージをインストールして使用する](./dotnet_install_package/README.md)
 
+## 言語特性
+- [コンパイラ オプション](./dotnet_install_package/README.md)
 
 
