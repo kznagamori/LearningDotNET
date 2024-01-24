@@ -84,6 +84,5 @@
 - [パッケージをインストールして使用する](./dotnet_install_package/README.md)
 
 ## 言語特性
-- [コンパイラ オプション](./dotnet_install_package/README.md)
-
+- [コンパイラ オプション](./dotnet_compiler_options/README.md)
 
