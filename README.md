@@ -71,6 +71,7 @@
 ## 応用
 - [リンクドリスト](./dotnet_list_package/README.md)
 - [キュー](./dotnet_queue_package/README.md)
+- [スタック](./dotnet_stack_package/README.md)
 - [平衡二分木](./dotnet_balanced_tree_package/README.md)
 - [ハッシュテーブル](./dotnet_hash_table_package/README.md)
 - [ソート](./dotnet_sort_package/README.md)
